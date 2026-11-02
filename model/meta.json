@@ -1,0 +1,40 @@
+{
+  "features": [
+    "Age",
+    "Gender",
+    "Occupation",
+    "Relationship_Status",
+    "Primary_Platform",
+    "Daily_Usage_Hours",
+    "Platforms_Used_Count",
+    "Posts_Per_Week",
+    "Late_Night_Usage",
+    "First_Check_Morning",
+    "Notifications_Per_Day",
+    "FOMO_Score",
+    "Social_Comparison_Score",
+    "Validation_Seeking_Score",
+    "Scroll_Without_Purpose",
+    "Tried_To_Cut_Back",
+    "Failed_To_Cut_Back",
+    "Anxiety_Score",
+    "Depression_Score",
+    "Loneliness_Score",
+    "Self_Esteem_Score",
+    "Sleep_Quality_Score",
+    "Sleep_Hours",
+    "Productivity_Loss_Score",
+    "Offline_Relationship_Quality",
+    "Physical_Activity_Hrs_Week",
+    "Screen_Free_Time_Hrs",
+    "Mental_Wellbeing_Score"
+  ],
+  "classes": [
+    "Low",
+    "Moderate",
+    "High",
+    "Severe"
+  ],
+  "n_train": 1200,
+  "n_test": 300
+}
