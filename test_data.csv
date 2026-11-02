@@ -1,0 +1,301 @@
+Age,Gender,Occupation,Relationship_Status,Primary_Platform,Daily_Usage_Hours,Platforms_Used_Count,Posts_Per_Week,Late_Night_Usage,First_Check_Morning,Notifications_Per_Day,FOMO_Score,Social_Comparison_Score,Validation_Seeking_Score,Scroll_Without_Purpose,Tried_To_Cut_Back,Failed_To_Cut_Back,Anxiety_Score,Depression_Score,Loneliness_Score,Self_Esteem_Score,Sleep_Quality_Score,Sleep_Hours,Productivity_Loss_Score,Offline_Relationship_Quality,Physical_Activity_Hrs_Week,Screen_Free_Time_Hrs,Mental_Wellbeing_Score,Addiction_Level
+22,Male,Working Professional,Married,Facebook,4.0,4,4,No,Within 5 min,57,7.7,4.9,5.0,5.5,Yes,No,3.5,7.4,6.9,9.4,6.3,8.0,3.8,6.8,0.6,3.5,8.3,Low
+23,Male,Working Professional,,,2.4,1,3,No,After 30 min,56,5.9,4.0,5.2,5.3,No,Yes,7.3,6.5,4.8,6.5,6.6,7.3,3.7,2.3,2.2,1.0,7.4,Low
+35,,Freelancer,In a Relationship,TikTok,2.7,1,6,Yes,5-30 min,20,2.8,4.8,10.0,6.9,No,No,4.4,,8.7,7.1,5.9,7.3,7.5,5.8,5.5,2.9,6.4,Moderate
+18,Female,Working Professional,Single,Facebook,6.2,4,5,Yes,5-30 min,55,5.3,5.0,5.4,5.8,No,,9.4,1.0,3.0,6.2,2.1,4.2,3.9,8.2,2.2,5.4,5.3,Severe
+32,Male,Freelancer,In a Relationship,TikTok,7.5,7,4,No,Within 5 min,67,5.4,4.4,9.4,8.6,No,No,4.0,2.8,5.1,4.7,4.6,6.1,4.9,4.0,1.2,4.3,4.4,Severe
+42,Male,Freelancer,Married,Snapchat,3.6,6,5,Yes,Within 5 min,78,4.7,2.7,5.5,1.3,Yes,Yes,7.7,5.0,7.6,6.3,7.1,7.7,3.7,7.6,2.2,1.7,5.7,Moderate
+36,Female,Student,Single,Snapchat,6.0,2,7,Yes,Within 5 min,129,8.4,4.7,3.5,8.2,Yes,Yes,3.6,2.9,6.2,4.4,5.8,,7.8,4.0,2.2,4.4,3.9,Severe
+37,Female,Student,,TikTok,4.4,2,4,Yes,After 30 min,18,9.3,5.5,4.9,8.5,Yes,Yes,3.8,5.3,2.8,8.0,5.0,7.2,4.4,7.1,0.1,2.2,6.2,High
+29,Male,Unemployed,,Facebook,5.0,1,5,No,After 30 min,27,7.0,7.6,2.8,6.2,No,No,8.0,2.0,5.1,7.9,4.3,7.7,2.5,6.4,4.7,3.5,8.7,Low
+36,Female,Working Professional,In a Relationship,Snapchat,1.3,7,2,Yes,Within 5 min,95,4.6,10.0,5.9,4.4,Yes,Yes,9.6,5.8,6.4,,7.2,6.7,3.9,4.8,1.7,6.2,3.5,Severe
+33,Female,Student,In a Relationship,Instagram,0.8,5,3,No,Within 5 min,45,4.8,6.3,6.0,4.8,No,No,4.7,4.3,2.0,10.0,7.2,6.6,,3.8,3.6,2.0,8.4,Low
+44,Female,Working Professional,In a Relationship,TikTok,1.1,3,4,No,Within 5 min,26,5.0,8.0,4.6,6.5,Yes,No,6.5,7.0,2.4,4.6,,4.6,6.4,7.9,4.4,1.0,7.4,Low
+28,Male,Working Professional,Single,Twitter/X,5.0,5,7,No,5-30 min,52,3.0,9.7,2.0,1.1,No,Yes,1.9,3.2,,7.2,4.4,5.3,7.0,8.3,5.4,4.8,9.0,Low
+37,,Unemployed,In a Relationship,Facebook,1.8,3,2,Yes,After 30 min,101,2.6,0.7,5.0,6.2,No,Yes,7.1,1.7,3.7,2.5,5.9,5.6,0.0,5.0,3.7,2.1,8.2,Low
+44,Non-binary,Student,Single,TikTok,7.4,3,4,Yes,After 30 min,13,4.5,3.6,3.5,4.4,No,No,4.3,5.0,5.7,4.1,4.3,6.3,6.0,5.3,5.9,4.5,8.4,Low
+28,Male,Student,Married,Snapchat,3.8,2,6,No,5-30 min,41,2.4,3.8,3.3,6.9,Yes,No,2.3,8.2,9.0,6.0,8.3,6.7,9.2,7.0,4.3,3.5,8.8,Low
+30,Male,Student,Married,TikTok,5.2,3,4,Yes,After 30 min,38,3.5,7.6,5.2,5.9,Yes,Yes,2.2,3.2,4.0,2.8,4.7,7.2,3.7,5.6,0.9,2.8,6.2,High
+30,,Working Professional,Single,TikTok,3.8,2,3,Yes,After 30 min,46,7.6,6.4,5.5,8.0,Yes,No,4.2,3.9,5.3,5.1,6.3,5.1,5.3,7.6,1.4,2.4,6.5,High
+35,Male,Student,Married,Instagram,8.3,5,4,No,Within 5 min,20,5.9,6.6,5.3,7.0,Yes,Yes,,3.1,3.1,,6.3,5.1,4.5,8.0,4.8,2.6,6.3,High
+36,Male,Student,Married,Instagram,0.9,4,3,No,Within 5 min,73,4.2,9.4,1.3,6.8,No,No,5.9,4.5,0.0,7.8,6.4,7.3,4.1,2.3,2.0,,6.7,Low
+22,Female,Student,In a Relationship,Instagram,6.5,2,4,No,Within 5 min,71,4.4,7.5,5.6,2.5,Yes,Yes,8.6,6.2,4.3,5.8,8.1,5.5,2.9,8.5,0.0,3.1,5.9,High
+27,Female,Working Professional,Married,Twitter/X,1.2,2,5,No,After 30 min,63,9.7,4.4,9.4,5.8,No,Yes,5.0,3.8,8.5,6.0,8.7,5.8,3.2,5.8,2.6,3.3,5.7,Moderate
+16,Male,Student,Married,TikTok,3.1,4,2,Yes,Within 5 min,56,7.9,3.5,1.7,5.7,Yes,Yes,5.7,4.1,6.7,1.9,3.8,7.3,0.0,6.8,3.4,5.2,5.7,Severe
+21,Male,Unemployed,Single,Snapchat,4.0,6,6,No,Within 5 min,5,1.6,2.9,4.5,2.3,No,No,4.3,5.4,5.0,5.8,5.9,6.6,2.9,,1.3,1.6,8.9,Low
+43,Female,Working Professional,Single,Instagram,8.5,3,1,Yes,Within 5 min,79,3.1,2.8,0.0,5.4,Yes,No,6.8,4.5,5.4,8.5,7.8,6.7,1.7,2.6,4.0,1.5,7.7,Low
+37,Female,Student,Married,Facebook,7.7,2,3,Yes,Within 5 min,48,3.9,8.3,4.9,4.1,,No,3.3,3.5,5.6,1.4,3.9,6.1,5.5,3.6,1.0,3.9,4.3,Severe
+30,Male,Unemployed,Married,Instagram,0.5,2,2,No,5-30 min,58,3.3,6.2,4.6,9.2,Yes,Yes,4.5,5.5,4.9,3.9,5.8,3.0,2.3,,3.0,3.3,6.7,Moderate
+17,Female,Working Professional,In a Relationship,Twitter/X,2.1,8,5,No,5-30 min,64,6.8,5.3,7.6,0.8,No,Yes,6.0,3.0,5.6,3.6,7.0,8.0,6.0,8.5,0.5,4.3,7.9,Low
+22,Male,Student,Single,Instagram,3.6,3,1,Yes,5-30 min,112,4.9,5.5,,4.5,Yes,No,5.0,0.0,2.3,2.8,6.1,5.4,5.7,3.6,2.7,3.9,6.6,Moderate
+28,Male,Working Professional,In a Relationship,Snapchat,5.1,5,0,No,5-30 min,19,7.0,,4.4,4.0,No,Yes,4.0,2.4,6.4,1.6,4.5,5.2,1.6,4.1,6.3,3.7,6.2,Moderate
+42,Female,Working Professional,Single,Facebook,5.8,3,4,No,5-30 min,16,4.0,8.8,4.7,3.5,Yes,No,6.4,4.0,6.3,5.6,3.1,6.7,0.8,5.6,0.9,2.1,6.9,Low
+36,Male,Student,Single,Instagram,3.0,2,5,No,5-30 min,54,4.3,2.1,2.9,0.8,No,No,1.0,0.0,6.3,9.6,4.3,7.7,7.3,8.1,1.4,3.1,10.0,Low
+38,Male,Student,In a Relationship,YouTube,3.5,3,6,Yes,Within 5 min,58,2.8,7.1,5.4,10.0,Yes,No,4.7,4.0,4.0,6.2,4.4,7.7,5.2,4.7,3.7,0.3,5.6,High
+24,Female,Student,In a Relationship,TikTok,1.0,5,4,No,5-30 min,22,4.3,5.8,3.1,7.9,No,Yes,7.8,9.1,6.9,3.5,2.3,6.6,2.3,4.5,3.3,1.6,6.4,High
+35,Female,Student,Single,Instagram,6.2,3,3,Yes,Within 5 min,111,6.4,5.7,5.2,6.9,No,Yes,8.8,5.7,1.6,6.8,2.9,7.3,3.4,5.3,,0.2,3.1,Severe
+36,Non-binary,Working Professional,In a Relationship,TikTok,4.6,6,4,No,5-30 min,53,6.7,7.7,3.6,7.5,Yes,Yes,5.0,,2.3,4.5,2.6,6.4,5.0,8.5,2.9,3.4,4.6,Severe
+23,Female,Working Professional,,YouTube,5.5,3,8,No,5-30 min,26,2.3,5.6,6.2,8.0,No,No,6.2,,2.6,3.5,4.7,6.0,7.7,5.6,2.0,0.3,7.1,Moderate
+43,Male,Student,In a Relationship,YouTube,3.3,3,4,Yes,Within 5 min,64,10.0,4.8,5.8,5.8,Yes,Yes,2.3,2.1,1.0,8.4,5.0,6.2,7.1,,1.6,2.1,5.0,Severe
+40,Male,Unemployed,Single,Facebook,8.3,4,6,Yes,After 30 min,62,6.7,5.0,2.7,3.3,No,Yes,4.1,4.1,3.7,4.5,5.6,6.8,4.9,5.8,2.7,4.3,7.2,Moderate
+33,Female,Student,Married,Instagram,0.5,3,1,Yes,Within 5 min,24,2.6,7.6,3.8,3.5,Yes,No,5.0,1.6,7.9,5.2,4.6,4.9,7.2,,4.2,3.0,6.4,Moderate
+22,Non-binary,Unemployed,Single,,5.8,2,4,,Within 5 min,55,7.0,3.2,4.1,7.6,No,Yes,6.8,8.8,6.7,8.2,5.8,5.8,2.6,9.8,2.9,4.9,6.0,High
+15,Female,Freelancer,Single,YouTube,1.4,5,3,Yes,Within 5 min,71,5.7,4.8,2.6,5.7,Yes,No,5.2,1.7,6.9,5.9,7.0,4.9,3.8,8.1,2.7,3.4,6.5,Moderate
+30,,Student,,Twitter/X,4.0,6,3,No,5-30 min,53,7.4,5.8,10.0,6.9,No,,1.4,4.6,3.7,5.1,6.2,10.0,5.1,,2.3,0.0,6.1,High
+25,Male,Working Professional,Single,YouTube,4.4,3,2,No,Within 5 min,95,7.2,6.3,,3.9,No,No,8.1,0.9,3.7,2.0,9.8,4.7,4.7,5.2,2.4,1.1,7.1,Moderate
+29,Female,Working Professional,Single,YouTube,7.2,3,2,No,Within 5 min,24,5.6,2.4,2.8,5.0,No,Yes,2.1,4.6,3.4,8.2,6.9,6.5,3.3,7.7,4.0,3.4,8.2,Low
+17,Male,Working Professional,In a Relationship,YouTube,3.9,6,2,No,After 30 min,69,6.1,5.6,5.4,8.0,Yes,No,6.1,4.9,4.3,2.3,1.4,6.8,0.1,8.7,0.6,4.1,6.8,Moderate
+41,Male,Unemployed,In a Relationship,TikTok,2.1,1,3,No,Within 5 min,86,9.0,3.2,6.1,5.1,No,No,5.3,3.0,3.1,8.4,6.1,4.5,3.2,2.1,3.9,0.2,7.4,Moderate
+18,Male,Student,Single,Instagram,4.4,2,1,No,After 30 min,88,3.3,4.9,3.6,7.7,No,No,6.3,6.5,2.9,4.8,7.8,6.0,5.3,3.8,3.4,0.1,7.4,Low
+16,Non-binary,Working Professional,Single,Instagram,3.0,2,3,Yes,Within 5 min,32,7.0,3.5,,1.2,No,Yes,2.5,3.1,1.6,5.0,3.3,3.0,1.9,8.8,3.8,0.0,6.9,Moderate
+29,Non-binary,Unemployed,In a Relationship,TikTok,3.8,5,7,No,5-30 min,142,2.4,5.6,4.5,4.6,No,Yes,8.2,1.2,5.4,6.0,5.8,7.0,5.6,5.0,3.5,0.0,5.6,High
+32,Male,Freelancer,In a Relationship,Instagram,6.1,4,4,Yes,Within 5 min,20,8.2,2.8,4.9,4.7,Yes,Yes,8.0,7.8,4.0,5.4,4.6,5.6,5.2,1.4,2.7,3.5,4.2,Severe
+19,Female,Working Professional,Single,YouTube,4.2,1,3,Yes,5-30 min,56,6.5,6.7,5.9,3.4,No,Yes,1.6,4.8,6.6,4.8,4.9,7.2,6.9,,2.4,1.9,5.8,High
+30,Male,Student,Single,Facebook,5.7,6,4,Yes,Within 5 min,64,4.6,3.7,6.0,2.1,Yes,No,9.1,,4.7,7.9,6.6,5.0,5.4,6.3,2.5,3.2,6.6,Moderate
+22,Male,Student,Single,Instagram,8.7,2,3,Yes,Within 5 min,108,5.6,3.4,3.1,4.8,No,Yes,4.9,5.8,4.7,7.5,5.2,5.9,4.5,5.1,2.9,3.4,5.1,Severe
+27,Female,Freelancer,Single,TikTok,2.3,2,3,No,After 30 min,22,3.6,6.8,6.5,5.7,No,No,0.9,6.7,4.3,2.0,2.0,6.4,3.4,4.9,2.4,3.5,6.3,Moderate
+37,Male,Unemployed,Single,YouTube,3.5,4,5,No,Within 5 min,76,1.5,4.6,6.3,4.1,Yes,No,2.3,4.6,5.9,6.3,3.4,5.1,2.9,3.9,4.2,4.1,7.2,Low
+35,Female,Freelancer,In a Relationship,TikTok,7.5,4,7,No,5-30 min,5,3.6,4.6,1.9,6.9,Yes,No,6.8,6.9,3.9,6.3,6.0,4.7,5.5,9.7,5.6,1.8,7.7,Low
+16,Male,Working Professional,Single,TikTok,3.1,7,5,No,5-30 min,103,3.7,7.1,6.8,4.9,Yes,No,3.5,8.8,5.3,3.1,7.1,6.8,3.7,3.8,3.5,5.7,7.3,Low
+22,Male,Working Professional,Single,Snapchat,7.0,2,5,No,Within 5 min,82,5.9,5.6,3.4,4.8,Yes,,8.6,6.9,4.2,4.2,9.0,7.3,2.4,2.1,2.9,2.1,6.2,High
+17,Male,Working Professional,Married,Facebook,5.0,5,4,Yes,After 30 min,113,4.6,3.7,,7.6,No,Yes,6.6,5.9,6.5,9.6,6.3,6.5,7.4,8.2,2.7,3.9,7.0,Moderate
+33,Non-binary,Student,Single,TikTok,3.0,7,6,No,Within 5 min,26,7.2,3.5,8.0,6.8,No,No,3.0,1.1,5.7,4.8,8.1,8.3,6.5,5.0,2.5,5.3,5.2,High
+28,Male,Freelancer,Single,YouTube,2.4,2,3,No,5-30 min,55,5.7,10.0,3.1,4.5,Yes,Yes,0.4,5.5,1.8,5.5,7.4,5.7,8.2,3.1,4.9,1.1,6.8,Low
+17,Female,Freelancer,Married,TikTok,2.0,3,3,Yes,After 30 min,121,9.7,6.2,,9.3,No,Yes,3.1,3.8,0.9,7.4,5.2,8.0,5.8,9.0,4.3,2.2,6.2,High
+18,Male,Working Professional,Single,YouTube,1.1,5,6,Yes,5-30 min,41,3.9,3.0,3.7,3.0,Yes,No,7.5,4.3,1.9,6.9,1.4,4.7,5.4,6.3,0.9,3.2,8.0,Low
+39,Female,Working Professional,In a Relationship,Instagram,5.0,5,5,No,Within 5 min,32,6.1,5.6,6.4,3.6,Yes,No,8.9,5.4,0.1,7.5,5.5,8.7,3.2,,2.9,2.1,7.5,Moderate
+34,Female,Working Professional,Single,Instagram,4.3,7,3,Yes,Within 5 min,83,4.1,2.6,5.4,3.0,Yes,Yes,8.2,0.3,6.9,4.0,5.1,6.2,3.3,6.9,1.6,5.2,4.8,Severe
+17,Female,Working Professional,Married,TikTok,2.4,2,2,Yes,After 30 min,90,7.6,9.4,4.7,3.7,No,No,3.1,,7.1,5.7,8.1,7.5,9.4,4.7,2.2,2.8,6.6,Moderate
+24,Female,Working Professional,Married,YouTube,5.7,4,3,No,After 30 min,92,7.4,8.4,0.0,4.2,Yes,Yes,2.0,3.7,6.5,7.9,3.2,6.2,6.0,8.9,2.9,2.5,8.2,Low
+35,Female,Working Professional,Married,TikTok,5.3,2,1,No,5-30 min,5,0.1,,7.8,7.9,Yes,Yes,4.9,6.3,3.0,4.4,6.1,5.4,7.2,0.8,2.7,5.0,6.6,Moderate
+27,Male,Student,Single,Instagram,3.9,2,6,No,5-30 min,20,5.2,7.4,2.6,3.2,Yes,No,3.7,2.2,6.0,5.2,5.3,6.1,1.1,,1.2,3.4,7.8,Low
+17,Female,Freelancer,In a Relationship,Facebook,4.7,7,2,,After 30 min,5,2.3,6.6,5.2,7.2,Yes,No,5.0,5.7,3.1,7.4,6.6,7.2,5.9,7.3,4.6,4.3,9.2,Low
+24,Female,Student,Married,Snapchat,1.7,1,6,Yes,5-30 min,31,1.2,6.5,0.2,7.4,Yes,Yes,5.1,1.6,4.3,8.2,7.2,6.5,1.8,7.1,3.4,2.9,8.4,Low
+41,Female,Working Professional,Single,Instagram,3.8,1,1,Yes,5-30 min,84,9.4,0.0,5.4,6.5,Yes,No,2.3,6.5,2.6,3.9,1.5,7.0,5.6,6.5,1.7,0.0,6.1,High
+25,,Unemployed,Single,TikTok,2.4,3,8,No,5-30 min,52,5.0,3.8,5.2,6.0,Yes,No,5.2,5.5,5.1,4.7,4.1,4.7,4.9,3.9,3.7,4.4,6.2,Moderate
+29,Male,Working Professional,In a Relationship,,4.3,1,6,No,Within 5 min,14,3.7,5.0,5.0,7.0,No,No,6.1,2.1,3.9,5.9,7.2,6.0,4.3,1.2,4.0,3.7,7.5,Low
+25,Male,Student,Single,YouTube,4.0,7,1,Yes,5-30 min,5,3.8,4.7,4.1,4.6,Yes,Yes,2.1,0.2,2.3,5.0,,9.1,7.2,1.3,4.3,3.3,6.5,Moderate
+37,Male,Working Professional,Married,TikTok,4.4,7,2,Yes,5-30 min,5,7.4,2.7,4.3,7.7,Yes,,6.0,3.6,5.9,2.8,5.2,7.8,2.1,0.0,1.1,4.1,5.1,Severe
+35,Female,Freelancer,Single,TikTok,5.8,6,7,Yes,5-30 min,31,3.7,3.3,9.4,3.1,No,No,6.0,6.1,1.1,7.6,3.4,6.9,2.2,6.4,3.7,3.6,7.1,Low
+34,Male,Working Professional,In a Relationship,Facebook,4.6,5,4,No,Within 5 min,5,2.6,6.0,7.3,6.5,Yes,Yes,5.4,2.8,4.5,6.5,5.5,5.0,4.4,4.5,,2.1,5.0,High
+44,Male,Student,Married,TikTok,7.9,7,1,No,Within 5 min,91,4.0,7.3,6.3,2.4,No,Yes,2.3,2.3,5.4,2.1,7.8,5.7,3.3,7.7,3.5,5.3,6.0,High
+31,Male,Student,Single,YouTube,7.9,2,2,No,5-30 min,98,7.0,7.5,5.9,7.2,Yes,Yes,5.4,5.8,4.9,1.7,3.6,4.4,3.5,6.0,4.9,5.0,6.3,High
+23,Non-binary,Freelancer,In a Relationship,Snapchat,3.3,1,3,No,Within 5 min,118,6.4,5.1,6.6,0.9,Yes,No,4.3,7.8,4.7,6.0,5.7,4.0,4.5,4.5,2.3,,6.8,Moderate
+28,Female,Working Professional,Single,Instagram,2.8,5,5,Yes,Within 5 min,28,7.3,6.1,4.6,8.2,No,No,7.4,3.1,6.7,4.3,0.9,4.1,0.0,7.2,2.0,2.4,5.7,Severe
+39,Female,Unemployed,In a Relationship,Instagram,3.4,3,8,Yes,Within 5 min,51,8.0,4.2,6.9,9.7,No,Yes,5.0,7.2,7.2,4.1,2.1,5.3,4.1,,5.5,0.0,4.1,Severe
+36,Male,Freelancer,Single,Instagram,2.4,2,3,,Within 5 min,137,6.0,5.6,3.2,5.6,No,No,4.0,0.2,6.5,6.1,6.4,3.9,10.0,5.1,8.0,0.2,6.0,High
+15,Female,Student,In a Relationship,Instagram,5.6,6,2,Yes,After 30 min,65,6.7,3.9,4.0,4.5,No,Yes,9.2,2.9,8.0,10.0,4.5,8.6,2.7,3.4,3.5,2.3,5.5,High
+18,Non-binary,Student,In a Relationship,TikTok,4.6,3,0,No,5-30 min,58,6.0,8.6,2.8,7.3,Yes,,6.5,0.0,4.0,,5.7,5.0,3.8,3.2,0.6,1.0,6.6,Moderate
+42,Non-binary,Working Professional,Single,Instagram,4.9,1,1,No,Within 5 min,66,5.6,8.7,8.2,10.0,No,No,7.0,3.7,5.2,4.1,7.5,6.8,5.3,0.6,0.4,0.7,4.3,Severe
+22,Non-binary,Unemployed,In a Relationship,Instagram,7.4,2,2,Yes,Within 5 min,43,6.8,6.0,2.6,3.7,Yes,Yes,7.5,4.2,4.1,2.0,6.5,5.0,5.0,7.7,6.3,0.0,4.9,Severe
+15,Male,Unemployed,,TikTok,3.8,5,4,No,5-30 min,47,7.6,3.7,4.5,7.3,Yes,No,3.1,,4.6,5.7,5.8,7.7,0.4,5.4,5.0,3.7,7.7,Low
+37,Non-binary,Working Professional,Single,YouTube,3.9,1,10,Yes,Within 5 min,59,5.4,3.8,5.6,5.5,No,No,5.8,4.5,3.5,2.9,8.2,6.4,5.9,,1.8,3.8,5.8,High
+19,Female,Student,Single,Facebook,4.1,1,4,Yes,Within 5 min,118,4.6,5.4,4.2,5.1,Yes,No,3.1,7.7,4.1,3.1,10.0,6.0,4.4,7.9,2.0,4.0,7.0,Low
+21,Male,Freelancer,,Snapchat,8.8,2,1,Yes,Within 5 min,93,8.3,3.9,2.8,6.4,Yes,No,4.4,2.2,4.3,4.1,5.8,9.4,4.3,6.8,0.0,3.0,6.6,High
+30,Male,Student,In a Relationship,TikTok,2.5,1,3,Yes,After 30 min,128,2.6,8.6,7.7,6.4,Yes,No,3.0,6.4,6.6,6.4,10.0,7.4,6.1,,3.3,2.5,7.4,Moderate
+29,Male,Student,Single,TikTok,,4,4,Yes,After 30 min,38,4.0,6.6,4.3,5.1,No,Yes,1.7,1.2,3.6,4.7,3.3,5.3,0.0,6.0,2.1,3.9,7.1,Moderate
+33,Male,Student,In a Relationship,Instagram,4.0,2,3,No,Within 5 min,58,7.1,7.5,6.2,3.6,Yes,No,1.7,,6.1,5.8,4.2,7.5,2.3,7.9,3.2,1.0,6.4,Moderate
+33,Female,Working Professional,In a Relationship,Instagram,3.3,3,3,No,Within 5 min,81,5.1,4.9,6.1,6.3,No,Yes,6.3,2.8,3.6,5.4,7.0,5.2,2.3,2.3,,1.9,6.5,High
+37,Female,Unemployed,In a Relationship,Snapchat,0.5,4,5,No,Within 5 min,49,5.6,6.8,4.9,1.7,No,Yes,4.8,0.8,4.4,3.6,4.9,5.1,5.4,5.9,6.2,4.8,6.9,Low
+16,Female,Student,In a Relationship,Twitter/X,4.4,7,4,No,Within 5 min,94,6.4,7.2,,4.6,Yes,Yes,4.7,,1.8,7.4,6.9,8.2,4.4,5.9,6.6,2.3,6.0,Moderate
+25,Male,Working Professional,Single,Instagram,4.7,3,6,,Within 5 min,97,2.4,4.8,5.4,6.7,No,Yes,1.9,3.3,7.0,6.7,3.7,,3.2,6.7,2.1,2.5,5.5,High
+38,,Working Professional,In a Relationship,Instagram,2.6,6,3,No,Within 5 min,62,2.4,6.2,6.8,5.6,Yes,Yes,1.5,6.7,0.1,,,9.7,4.8,4.9,1.8,0.8,5.5,High
+17,Female,Student,Single,Snapchat,2.1,6,3,No,After 30 min,45,,4.6,5.5,0.0,Yes,Yes,4.1,6.8,2.2,3.7,6.6,6.9,5.7,5.8,4.7,4.0,8.3,Low
+33,Non-binary,Working Professional,Single,Snapchat,7.1,4,4,No,Within 5 min,52,4.1,10.0,1.2,3.6,No,Yes,6.0,5.4,5.5,5.3,6.3,6.0,7.1,4.0,1.6,4.9,6.1,High
+25,Male,Student,In a Relationship,Twitter/X,6.5,5,4,Yes,After 30 min,57,3.5,,8.1,3.2,Yes,No,3.6,3.8,0.0,6.8,2.5,7.3,5.7,3.6,3.2,0.0,6.9,Low
+28,Male,Student,Single,YouTube,3.6,1,6,No,After 30 min,80,4.2,6.6,4.8,2.1,Yes,Yes,10.0,5.2,4.8,7.1,5.9,8.0,6.5,4.3,0.7,3.4,6.8,Moderate
+31,Female,Unemployed,Single,Twitter/X,3.8,2,5,No,Within 5 min,23,4.8,7.8,3.9,4.9,Yes,Yes,3.7,10.0,4.6,7.4,5.0,6.7,5.1,6.7,3.2,1.3,7.0,Moderate
+26,Male,Working Professional,Married,Twitter/X,2.6,2,5,Yes,5-30 min,5,1.6,4.7,2.2,0.8,Yes,Yes,2.3,2.1,1.1,3.8,4.4,4.3,5.5,3.7,0.0,0.0,7.2,Low
+42,Female,Freelancer,Married,,5.3,5,5,Yes,5-30 min,71,6.6,,9.3,7.3,No,Yes,4.3,3.9,4.5,6.0,6.3,8.5,5.4,7.1,5.1,1.5,4.6,Severe
+36,Female,Working Professional,Married,Instagram,,2,4,No,Within 5 min,58,,7.8,2.1,5.0,Yes,Yes,6.0,,,4.8,0.3,6.5,6.4,6.0,2.3,2.9,4.9,Severe
+34,Male,Student,In a Relationship,Instagram,6.7,5,4,Yes,5-30 min,40,5.9,3.9,1.8,5.0,Yes,Yes,5.5,6.0,4.6,9.3,2.0,7.3,4.2,6.5,4.4,2.6,5.6,High
+21,Male,Working Professional,Single,Twitter/X,3.9,1,3,No,After 30 min,59,4.0,,5.8,3.0,Yes,No,3.2,0.7,1.1,2.6,6.5,8.2,2.5,4.9,2.8,4.3,9.3,Low
+31,Female,,Single,,3.2,3,3,Yes,After 30 min,109,4.1,6.5,5.8,4.3,Yes,,3.5,1.7,2.2,7.1,5.3,6.5,3.7,4.2,6.0,3.0,6.2,Moderate
+19,Male,Working Professional,In a Relationship,Snapchat,3.2,3,4,Yes,5-30 min,17,2.2,6.3,6.7,5.0,Yes,No,1.9,7.2,5.4,2.7,6.1,6.7,6.3,,3.0,3.1,8.1,Low
+39,Female,Working Professional,In a Relationship,TikTok,2.9,2,6,No,5-30 min,84,7.3,3.4,4.8,2.8,No,No,6.3,3.6,5.4,6.8,3.8,7.7,6.6,6.4,4.8,6.0,6.3,Moderate
+19,Female,Freelancer,Married,YouTube,5.2,3,4,Yes,Within 5 min,52,6.6,6.1,6.0,4.4,No,No,5.5,5.3,3.9,2.0,5.5,6.5,4.1,8.8,,,5.8,High
+17,Male,Working Professional,Married,Twitter/X,4.1,3,3,No,Within 5 min,5,6.2,7.3,,6.0,No,No,5.1,4.7,5.5,6.8,6.7,7.2,8.5,4.6,3.9,4.5,5.7,High
+27,Female,Working Professional,Single,Twitter/X,6.5,6,5,Yes,After 30 min,91,5.4,5.5,1.6,7.5,No,Yes,7.4,10.0,4.4,3.2,4.0,8.0,4.0,5.0,0.9,2.3,5.0,High
+36,Male,Working Professional,Single,YouTube,,1,11,No,5-30 min,41,8.2,8.1,0.6,4.9,,,8.8,0.0,3.2,4.3,3.6,4.7,7.7,5.7,3.4,5.4,6.0,High
+22,Male,Student,Married,YouTube,7.0,1,10,Yes,After 30 min,80,,7.9,5.6,5.4,Yes,Yes,4.0,3.9,9.0,0.7,8.1,7.4,7.1,4.2,7.1,5.5,5.3,High
+25,Male,Student,Single,TikTok,5.5,3,2,Yes,Within 5 min,26,6.4,6.9,4.2,5.9,No,Yes,4.1,3.5,3.6,5.0,,,4.5,8.0,2.2,5.1,5.7,High
+15,Female,Working Professional,Single,TikTok,6.5,4,6,No,5-30 min,106,5.6,5.2,2.7,5.2,No,No,10.0,4.6,8.3,5.4,4.8,7.8,3.3,5.4,,3.6,6.7,Moderate
+36,Male,Working Professional,Single,Snapchat,,1,2,No,5-30 min,17,6.2,3.3,1.7,4.1,Yes,Yes,5.6,5.0,3.4,5.8,8.4,5.1,5.6,7.4,5.8,0.0,8.2,Low
+31,Female,Student,Married,Instagram,6.3,5,6,Yes,5-30 min,36,3.6,5.2,6.4,6.3,No,Yes,6.5,3.7,,0.7,5.0,6.9,5.5,3.5,1.2,3.8,4.0,Severe
+19,Female,Working Professional,In a Relationship,Instagram,2.2,3,5,No,5-30 min,5,7.4,5.4,6.5,7.9,No,Yes,,5.9,2.4,4.6,2.9,8.5,4.2,5.4,2.3,3.4,5.2,High
+22,Female,Freelancer,In a Relationship,YouTube,2.4,1,2,Yes,Within 5 min,5,4.0,2.8,4.0,4.2,Yes,Yes,9.3,4.8,0.5,7.2,4.1,6.5,6.2,3.6,0.7,5.2,7.2,Moderate
+23,Female,Working Professional,In a Relationship,Snapchat,5.8,3,5,Yes,After 30 min,72,6.8,5.2,5.8,1.3,Yes,No,5.0,2.6,6.2,4.0,6.8,,4.6,5.8,4.8,2.9,7.6,Low
+24,Male,Working Professional,Single,Twitter/X,6.1,8,2,Yes,Within 5 min,122,5.4,4.1,4.4,4.3,Yes,No,2.0,4.5,6.2,7.3,7.6,3.9,10.0,8.4,2.1,0.0,5.6,High
+15,Male,Working Professional,In a Relationship,Twitter/X,4.6,4,7,Yes,Within 5 min,66,3.8,8.8,3.7,3.9,No,Yes,3.2,6.6,4.9,7.2,7.7,6.5,3.1,4.1,3.8,3.4,6.1,High
+30,Male,,Single,TikTok,4.5,6,1,Yes,5-30 min,5,,10.0,2.6,5.3,Yes,No,7.0,4.0,2.1,4.7,8.7,7.6,3.4,6.2,6.5,4.3,6.4,Moderate
+25,Male,Working Professional,,YouTube,4.1,3,4,No,5-30 min,104,9.2,4.4,6.6,5.7,Yes,No,7.5,7.4,5.2,3.3,6.9,8.5,4.9,8.3,2.2,6.0,6.5,High
+27,Male,Student,Married,TikTok,5.2,3,10,Yes,After 30 min,55,4.3,5.4,3.5,6.2,No,Yes,,,4.1,5.0,3.5,,3.5,5.3,3.6,4.2,5.1,High
+17,Male,Student,In a Relationship,TikTok,6.6,1,4,Yes,Within 5 min,65,5.5,8.4,6.7,8.0,No,No,6.1,0.0,3.3,1.5,7.1,6.2,8.5,3.6,2.2,2.3,3.6,Severe
+38,Male,Freelancer,Single,YouTube,2.7,1,2,No,5-30 min,62,5.8,5.8,4.5,6.8,Yes,No,2.3,4.6,4.9,6.5,8.5,6.5,5.9,9.9,3.1,1.9,7.7,Low
+18,Non-binary,Working Professional,Married,Twitter/X,3.4,1,4,Yes,Within 5 min,5,6.9,6.8,5.1,5.2,Yes,,4.8,3.0,7.0,2.9,4.1,6.1,3.5,3.8,8.0,1.2,6.0,Moderate
+23,Female,Working Professional,Single,,6.1,4,8,No,Within 5 min,28,,3.2,,4.8,No,Yes,5.0,2.6,2.9,3.7,4.5,6.6,3.3,1.1,3.4,4.8,6.0,High
+26,Male,Student,Married,Facebook,6.4,4,5,Yes,5-30 min,109,5.9,3.9,6.9,9.3,Yes,No,7.4,5.3,2.4,4.3,7.2,7.3,6.6,9.0,1.8,2.6,5.7,High
+31,Female,Student,Single,Twitter/X,6.9,2,2,Yes,After 30 min,5,6.3,5.3,5.9,6.0,No,Yes,3.1,4.3,6.0,5.4,2.2,5.6,5.2,6.0,2.2,2.9,5.9,High
+30,Female,Working Professional,In a Relationship,YouTube,5.2,1,1,Yes,After 30 min,46,4.3,7.0,6.5,6.6,Yes,No,0.2,7.1,2.3,6.5,3.1,5.6,4.8,5.6,0.5,3.9,7.9,Low
+18,Female,Working Professional,Single,Facebook,,4,5,Yes,Within 5 min,54,2.4,10.0,3.8,8.0,No,Yes,7.1,2.8,7.0,6.6,6.3,7.3,7.5,6.6,0.0,6.3,4.4,Severe
+17,Non-binary,Student,In a Relationship,Facebook,2.8,4,1,No,5-30 min,70,7.1,3.9,5.1,3.7,No,No,5.8,8.8,7.2,6.4,5.7,4.5,5.3,7.2,2.5,3.6,7.0,Moderate
+28,Male,Working Professional,Single,Snapchat,1.6,2,5,Yes,Within 5 min,79,8.4,7.4,5.4,1.7,No,No,4.8,2.2,2.1,7.5,7.5,5.2,7.5,7.7,1.7,4.5,6.8,Moderate
+31,Female,Student,Married,YouTube,8.0,3,4,No,Within 5 min,40,7.8,6.8,3.9,2.9,No,Yes,5.8,5.6,5.5,4.4,,9.2,,6.2,3.8,1.8,5.0,Severe
+25,Male,Working Professional,In a Relationship,TikTok,8.5,3,4,Yes,Within 5 min,62,8.0,4.1,2.6,6.4,Yes,No,8.3,3.1,0.4,5.0,3.9,7.0,1.9,7.3,0.0,3.1,5.4,High
+33,Female,Working Professional,Married,Twitter/X,0.5,4,6,Yes,5-30 min,86,5.3,2.3,3.2,4.5,No,Yes,5.4,6.1,5.9,4.5,7.7,7.7,,7.9,2.5,5.6,6.8,Moderate
+22,Male,Working Professional,,YouTube,5.3,1,1,No,5-30 min,53,7.1,3.3,,5.4,Yes,Yes,3.0,7.1,5.4,2.2,2.7,7.5,10.0,6.9,1.4,4.4,6.8,Moderate
+29,Female,Working Professional,Single,Snapchat,0.5,6,4,No,After 30 min,63,3.1,10.0,10.0,2.9,Yes,No,5.3,4.6,4.6,5.1,4.1,7.3,2.3,2.0,0.0,2.2,7.3,Moderate
+43,Male,Working Professional,Single,TikTok,2.7,3,2,No,Within 5 min,98,5.6,5.1,5.6,4.7,Yes,Yes,9.6,0.0,5.1,8.5,6.3,5.1,8.9,5.6,2.6,4.2,4.9,High
+43,,Freelancer,Married,YouTube,3.2,3,3,No,5-30 min,5,1.5,7.2,5.3,1.6,No,Yes,6.2,6.7,5.9,2.5,7.8,5.7,7.5,6.6,4.5,1.7,7.5,Low
+31,Male,Working Professional,Single,Twitter/X,4.7,2,5,Yes,After 30 min,51,0.6,6.0,2.6,4.8,No,Yes,6.6,5.7,5.1,2.1,5.4,4.9,,1.6,0.9,4.4,7.4,Low
+39,Male,Student,Married,TikTok,1.6,4,5,No,5-30 min,91,6.1,6.6,4.0,4.6,Yes,No,5.6,4.8,3.7,5.7,7.2,6.5,3.8,5.1,3.8,4.4,8.3,Low
+43,Female,Working Professional,Single,TikTok,2.8,4,5,No,Within 5 min,50,5.5,10.0,7.9,5.2,Yes,No,7.8,5.3,5.2,3.0,8.8,8.7,5.6,1.8,,5.5,5.8,Severe
+39,Female,Student,In a Relationship,TikTok,7.6,1,1,Yes,5-30 min,51,5.7,2.1,5.8,6.9,Yes,No,7.4,8.8,0.0,5.7,4.4,7.6,3.1,7.3,0.5,4.2,7.0,Moderate
+16,Male,Student,In a Relationship,TikTok,3.7,1,6,No,After 30 min,109,4.7,2.1,3.7,7.0,Yes,No,2.1,3.6,4.0,6.3,4.1,8.6,5.1,2.0,3.0,4.2,8.4,Low
+28,Female,Working Professional,Single,TikTok,2.6,2,4,No,5-30 min,80,2.8,5.2,,3.3,No,No,7.9,,5.6,5.6,4.3,7.0,6.5,5.4,4.3,3.6,7.2,Low
+26,Female,Working Professional,In a Relationship,YouTube,5.1,5,0,Yes,After 30 min,40,6.3,5.4,3.5,5.0,Yes,No,6.3,1.1,1.6,4.5,2.5,3.8,5.7,1.8,1.8,4.4,6.3,High
+30,,Student,Single,Snapchat,4.3,5,2,No,Within 5 min,100,5.6,6.3,4.2,7.3,Yes,No,4.5,6.5,3.2,5.9,6.3,5.7,4.6,3.0,4.2,2.7,6.3,Moderate
+32,Male,Student,Single,,6.7,2,2,No,5-30 min,53,7.0,3.9,4.6,7.1,No,No,7.6,3.8,2.4,6.5,6.6,7.3,7.4,5.6,2.0,2.2,6.6,Moderate
+40,Male,Student,Single,Snapchat,8.4,2,2,No,After 30 min,74,7.9,,8.6,7.4,Yes,Yes,5.6,8.6,1.5,6.1,3.0,6.9,4.6,5.5,3.0,5.0,5.4,High
+38,Male,Student,Single,Snapchat,4.4,5,6,Yes,5-30 min,59,5.4,5.6,3.1,6.1,Yes,No,1.6,4.9,5.6,2.9,4.7,6.0,5.6,4.7,2.2,2.4,6.9,Moderate
+30,Female,Unemployed,Single,Snapchat,2.9,5,6,No,5-30 min,42,2.7,5.1,1.8,8.4,No,Yes,,3.3,5.6,7.2,8.2,5.9,8.9,5.2,6.0,4.8,7.5,Low
+23,Female,Working Professional,Single,YouTube,5.9,4,6,Yes,After 30 min,63,6.6,5.2,7.5,6.1,No,Yes,7.7,6.3,,6.0,5.3,5.0,6.8,7.3,2.7,3.3,5.8,High
+24,Male,Working Professional,Single,TikTok,5.4,5,3,Yes,Within 5 min,62,6.5,5.6,4.2,1.6,Yes,Yes,0.2,3.5,6.6,7.4,2.1,7.6,3.8,4.3,0.0,3.1,4.8,Severe
+23,,Freelancer,,Twitter/X,,1,2,Yes,After 30 min,56,7.5,6.6,2.5,4.7,Yes,Yes,5.8,3.9,5.3,0.2,2.1,7.7,6.4,4.0,2.1,3.5,4.9,High
+33,Male,Working Professional,,YouTube,2.3,3,2,No,Within 5 min,77,0.1,1.8,5.6,2.2,No,Yes,,4.4,5.8,5.8,5.3,,5.8,6.8,2.8,1.8,7.8,Low
+21,Female,Student,Single,Facebook,4.0,3,1,No,5-30 min,55,5.5,6.6,1.0,5.1,Yes,Yes,5.7,4.0,3.3,5.0,3.4,7.2,3.8,5.6,1.3,3.6,7.3,Low
+33,Male,Working Professional,Married,Instagram,5.7,2,3,Yes,5-30 min,11,4.6,5.8,3.1,10.0,Yes,Yes,4.7,10.0,6.9,4.7,4.1,4.9,5.4,9.8,2.9,1.5,5.5,High
+31,Non-binary,Unemployed,Single,Snapchat,6.4,5,5,Yes,Within 5 min,5,3.4,9.2,4.0,8.0,Yes,No,8.5,2.2,3.7,5.6,8.9,5.1,5.0,3.4,4.3,0.0,5.6,High
+37,Male,Working Professional,In a Relationship,TikTok,4.7,4,4,No,5-30 min,5,7.8,6.2,0.0,3.8,Yes,,6.0,6.5,4.6,2.8,6.0,5.0,6.0,4.2,1.6,3.5,7.5,Low
+24,Female,Working Professional,In a Relationship,YouTube,5.3,2,3,No,Within 5 min,40,4.5,1.4,4.1,5.8,No,No,0.8,2.1,0.0,7.4,,6.9,4.8,3.3,3.9,4.9,8.6,Low
+37,Non-binary,Student,In a Relationship,TikTok,1.5,3,6,Yes,Within 5 min,20,3.9,7.4,7.1,4.7,No,Yes,7.7,6.7,4.1,4.8,7.5,6.8,0.3,7.1,3.7,5.4,6.1,Moderate
+31,Male,Student,,Twitter/X,5.0,4,2,Yes,Within 5 min,95,6.0,4.9,3.4,8.1,Yes,No,5.7,2.2,,10.0,8.2,6.1,6.3,4.8,3.1,3.9,6.8,Moderate
+19,Female,Freelancer,Single,Snapchat,1.7,1,5,,After 30 min,6,7.1,1.9,2.4,5.6,Yes,No,2.5,5.8,3.8,4.0,6.7,,2.5,5.6,2.0,2.3,9.1,Low
+38,Female,Working Professional,Single,YouTube,6.3,2,3,Yes,Within 5 min,55,4.3,3.6,1.3,4.1,Yes,Yes,4.7,6.9,1.4,7.9,7.1,7.1,6.7,3.1,2.0,3.1,7.4,Moderate
+36,,Freelancer,Single,Facebook,2.3,4,1,No,5-30 min,26,3.6,5.2,8.4,4.6,Yes,No,2.5,4.4,5.7,6.1,5.0,3.6,2.2,5.1,2.1,4.3,7.3,Low
+24,Female,Working Professional,Single,Snapchat,4.0,2,2,Yes,5-30 min,85,4.8,5.6,5.3,6.5,No,No,4.5,4.4,4.0,,2.9,5.9,6.2,7.6,2.4,2.1,7.9,Moderate
+32,Female,Working Professional,Single,YouTube,6.3,5,6,Yes,Within 5 min,120,4.9,6.2,7.6,7.3,Yes,No,6.6,5.0,4.3,4.7,7.8,6.8,3.7,3.2,3.0,2.2,4.6,Severe
+18,Female,Freelancer,Single,Twitter/X,6.2,2,4,Yes,After 30 min,118,2.6,8.5,9.0,3.9,Yes,Yes,8.1,1.0,4.8,2.8,,5.0,4.2,4.9,4.7,1.0,5.2,High
+35,Male,Student,In a Relationship,Instagram,3.4,2,7,Yes,Within 5 min,77,7.2,5.7,6.8,9.3,No,No,1.5,4.1,7.4,6.7,5.5,4.5,6.4,5.0,0.7,1.4,4.1,Severe
+38,Male,Working Professional,In a Relationship,,0.9,4,1,No,Within 5 min,49,3.2,,5.2,5.3,No,No,3.4,6.9,2.8,2.4,0.6,7.2,4.5,7.7,5.6,2.0,8.2,Low
+25,Female,Working Professional,Single,TikTok,7.0,4,4,No,Within 5 min,77,,2.3,3.7,6.8,Yes,No,3.1,4.9,3.9,5.3,7.9,4.6,8.8,2.5,4.8,0.5,5.6,High
+22,Male,Student,In a Relationship,Instagram,2.1,2,5,No,Within 5 min,50,4.4,6.1,5.1,6.8,Yes,Yes,6.2,1.5,6.2,3.1,4.9,6.8,3.9,4.7,4.2,6.1,5.5,High
+28,Female,Working Professional,Married,Instagram,6.5,5,5,Yes,5-30 min,6,6.9,7.1,6.2,7.5,No,Yes,4.7,5.3,3.3,6.0,5.6,4.6,4.5,2.6,2.2,4.4,5.2,High
+35,Female,Working Professional,Married,YouTube,6.0,2,2,No,Within 5 min,103,,6.1,0.0,8.3,Yes,Yes,8.1,7.0,7.2,3.1,8.1,5.3,6.3,3.7,4.4,3.3,5.0,Severe
+44,Male,Working Professional,In a Relationship,TikTok,5.6,4,3,Yes,5-30 min,62,4.5,7.5,6.1,4.5,No,No,4.7,2.4,,0.4,7.5,5.5,5.8,5.4,1.1,5.0,5.7,Severe
+26,Female,Freelancer,Single,Twitter/X,7.3,4,0,Yes,Within 5 min,90,3.0,7.3,3.1,1.2,Yes,Yes,5.8,8.8,7.5,6.6,6.4,4.2,9.1,6.4,3.6,2.1,6.4,High
+38,Female,,Married,Instagram,0.5,7,7,Yes,After 30 min,74,8.8,9.7,6.9,6.9,No,No,7.2,8.2,6.2,8.0,6.6,6.2,3.5,6.9,5.3,4.8,6.6,Moderate
+33,Male,Working Professional,In a Relationship,Instagram,8.2,1,7,,Within 5 min,107,3.3,8.1,7.0,7.2,Yes,No,5.3,1.6,5.2,3.5,5.5,7.5,0.6,5.3,2.1,1.5,5.1,Severe
+38,Female,Student,In a Relationship,Facebook,5.0,4,4,Yes,Within 5 min,24,4.0,4.8,6.0,2.6,No,Yes,5.3,3.8,7.2,0.5,4.8,8.2,6.8,5.4,3.2,3.7,5.5,High
+37,Female,Student,In a Relationship,YouTube,6.6,4,6,No,5-30 min,68,,,3.6,6.2,No,Yes,9.7,5.6,4.4,7.1,6.5,5.4,4.4,7.5,2.7,2.4,6.5,Moderate
+42,Male,Student,Single,YouTube,6.7,1,3,No,After 30 min,36,6.9,6.9,,6.6,No,,4.7,4.2,7.2,8.4,9.3,7.0,5.4,4.3,1.7,4.2,7.1,Moderate
+15,Male,Working Professional,Single,TikTok,6.9,4,3,Yes,5-30 min,38,3.8,5.5,5.5,4.8,Yes,No,2.8,6.1,5.1,5.0,6.5,,4.3,3.5,5.5,2.9,7.3,Moderate
+35,,Working Professional,In a Relationship,YouTube,1.8,1,4,No,After 30 min,120,3.9,7.3,6.6,8.1,Yes,Yes,6.6,5.7,6.0,5.3,4.8,6.3,3.4,1.0,1.5,1.0,6.6,Moderate
+37,Male,Student,Single,Instagram,5.9,3,4,Yes,5-30 min,81,8.3,6.6,3.0,4.9,Yes,No,4.1,5.8,2.7,6.1,4.6,7.2,5.3,5.1,1.7,0.9,5.5,High
+33,Female,Student,Married,Instagram,3.3,3,2,No,Within 5 min,54,4.9,8.1,4.6,6.0,No,No,5.6,6.0,4.4,2.4,5.5,6.2,4.1,8.7,3.5,0.0,6.7,Moderate
+25,Male,Unemployed,Single,Instagram,1.3,5,4,Yes,Within 5 min,67,4.8,3.2,8.7,5.9,Yes,No,6.9,4.0,0.7,2.9,9.1,6.2,8.4,5.7,3.3,5.1,6.4,High
+21,Female,Student,Single,Facebook,5.0,3,3,Yes,5-30 min,5,8.6,2.9,4.3,8.3,Yes,No,1.7,3.7,5.4,6.4,4.6,5.1,6.1,7.8,4.6,5.2,7.5,Low
+32,Female,Student,Single,YouTube,4.4,8,4,Yes,Within 5 min,88,7.1,5.7,5.4,6.8,Yes,Yes,6.2,3.9,3.2,3.5,2.4,4.1,2.1,3.0,7.2,2.0,5.0,Severe
+35,Female,Freelancer,Single,Twitter/X,5.3,4,6,Yes,After 30 min,15,7.3,7.2,4.8,7.2,Yes,Yes,6.7,2.8,4.6,6.6,6.9,8.1,7.0,4.0,2.7,1.8,5.6,High
+44,Male,,Single,Facebook,3.3,7,4,No,5-30 min,145,6.8,7.8,6.2,6.1,No,Yes,5.1,7.0,4.0,2.3,6.8,7.1,5.8,4.9,4.9,2.8,4.3,Severe
+24,Male,Unemployed,Married,Twitter/X,2.3,2,3,No,5-30 min,48,5.2,7.0,7.9,5.1,Yes,No,1.1,,0.7,2.3,8.6,5.3,6.2,7.7,2.2,3.9,7.8,Low
+41,Male,,Married,TikTok,5.6,6,4,No,Within 5 min,68,6.1,4.1,3.2,6.6,No,No,4.4,2.7,4.4,3.3,5.8,3.5,,5.1,0.2,,5.9,High
+22,Male,Student,Single,TikTok,4.5,3,4,No,Within 5 min,51,5.2,3.7,5.4,3.3,No,No,,6.9,3.4,7.2,4.2,7.3,1.4,2.1,0.4,4.3,7.3,Low
+30,Non-binary,Working Professional,Single,Instagram,4.7,7,4,No,5-30 min,79,8.0,5.9,5.7,5.1,No,Yes,4.9,7.1,0.2,4.7,6.7,8.5,7.5,1.8,6.4,3.0,5.7,High
+25,Female,Freelancer,Single,TikTok,5.6,4,4,No,Within 5 min,5,4.6,8.4,,4.0,Yes,Yes,4.4,1.1,3.9,7.0,2.6,7.7,7.1,2.8,8.6,5.3,5.7,Moderate
+31,Male,Working Professional,Single,TikTok,4.4,5,3,No,Within 5 min,14,7.4,6.8,5.0,3.5,Yes,,3.8,4.2,5.7,1.9,0.1,4.4,6.5,5.8,4.5,3.9,4.8,Severe
+23,Male,Freelancer,Single,Instagram,5.9,4,5,No,After 30 min,37,4.6,8.5,4.3,2.5,No,Yes,6.7,2.7,3.5,4.6,6.9,5.2,1.9,7.2,4.6,2.2,8.2,Low
+35,Male,Student,Single,Instagram,11.0,4,7,Yes,Within 5 min,18,5.6,8.1,3.7,2.5,No,No,9.9,2.1,7.2,5.0,7.7,8.8,5.0,5.3,6.7,0.0,4.7,Severe
+32,Male,Student,Single,Instagram,,2,6,Yes,Within 5 min,76,8.5,8.8,4.0,3.8,Yes,No,3.4,1.9,1.6,5.8,4.2,4.9,7.5,4.7,3.2,3.2,5.4,Severe
+18,Female,Student,Married,TikTok,6.3,4,2,No,Within 5 min,120,4.5,3.5,4.6,5.0,Yes,No,3.6,5.3,6.4,3.0,4.7,5.0,2.8,3.4,3.6,0.8,6.3,Moderate
+15,Female,Student,Single,Instagram,2.1,3,6,Yes,5-30 min,107,6.2,5.7,4.6,3.1,Yes,No,6.0,,3.3,6.8,5.6,8.2,5.0,,0.6,1.7,6.7,Moderate
+19,Female,Working Professional,Single,Twitter/X,1.3,3,5,Yes,After 30 min,51,6.7,4.2,2.9,2.8,Yes,Yes,3.6,6.3,6.6,5.0,9.9,6.4,6.6,9.3,3.5,0.0,8.8,Low
+39,Male,Student,Single,Twitter/X,5.5,4,0,No,5-30 min,62,1.1,3.0,5.2,5.6,No,Yes,7.1,1.3,5.0,7.6,6.5,8.7,9.4,5.4,1.5,5.7,7.0,Moderate
+26,Non-binary,Student,Single,Instagram,3.6,2,5,No,Within 5 min,27,,6.5,4.0,5.0,No,No,5.7,8.3,5.6,6.1,3.0,,3.4,7.5,3.1,3.0,8.1,Low
+43,Non-binary,Student,In a Relationship,Facebook,5.7,2,2,No,Within 5 min,94,5.7,1.1,1.5,3.1,Yes,No,7.9,5.9,2.7,9.2,3.0,5.5,6.0,7.6,4.1,2.1,8.9,Low
+31,Female,Freelancer,In a Relationship,YouTube,3.9,4,1,Yes,5-30 min,53,3.6,2.2,1.4,6.6,No,Yes,4.0,5.2,7.2,4.1,8.6,4.2,0.0,5.5,0.0,1.9,7.7,Low
+29,Female,Working Professional,Married,Twitter/X,5.5,1,1,Yes,After 30 min,62,5.1,4.2,,9.1,No,No,,5.0,1.7,5.0,4.7,8.0,6.5,5.9,7.6,2.2,7.5,Low
+25,,Student,Single,Facebook,5.5,3,3,Yes,Within 5 min,143,4.0,3.5,6.1,6.9,No,Yes,4.0,4.1,5.5,8.1,2.5,9.3,3.1,5.6,0.7,,4.9,Severe
+40,Non-binary,Student,Married,YouTube,4.5,2,7,Yes,5-30 min,67,2.7,9.0,5.8,3.8,No,No,2.4,10.0,1.7,2.4,3.6,8.5,6.6,5.6,4.9,2.7,6.3,Moderate
+39,Male,Working Professional,Single,Instagram,3.4,8,4,Yes,5-30 min,11,6.6,2.1,8.9,4.3,Yes,Yes,2.9,7.2,4.6,7.5,2.9,7.3,6.6,7.3,3.7,1.7,7.7,Moderate
+22,Non-binary,Working Professional,In a Relationship,Twitter/X,3.4,1,4,Yes,Within 5 min,41,5.0,5.0,4.6,7.0,No,No,2.7,5.6,4.5,4.2,3.1,5.2,5.1,3.6,1.1,6.2,6.4,Moderate
+30,Male,Working Professional,In a Relationship,YouTube,2.9,4,3,No,Within 5 min,62,4.9,7.4,2.1,10.0,No,No,2.5,3.8,1.7,6.5,8.5,5.3,3.7,3.8,5.8,3.1,7.3,Low
+31,Non-binary,Working Professional,In a Relationship,Facebook,4.9,5,6,Yes,5-30 min,90,0.9,0.0,,7.1,No,Yes,0.2,6.4,5.8,6.6,3.2,7.1,5.5,5.0,5.1,,7.5,Low
+24,Female,Working Professional,Married,,5.6,1,4,Yes,Within 5 min,5,8.8,9.6,7.9,8.3,Yes,Yes,5.7,2.8,3.3,5.2,7.6,4.2,4.0,7.0,0.0,4.5,2.8,Severe
+29,Female,Student,Single,Instagram,4.1,5,6,Yes,Within 5 min,67,8.5,1.9,1.7,7.2,No,Yes,9.5,1.4,2.5,1.1,4.3,9.3,4.3,7.7,1.8,3.4,4.6,Severe
+36,Male,Working Professional,Single,TikTok,4.6,2,6,Yes,Within 5 min,5,3.5,4.7,7.3,3.9,No,Yes,7.6,5.0,8.7,1.2,5.0,6.5,4.1,1.0,4.6,4.1,3.6,Severe
+37,Female,Unemployed,Single,TikTok,3.7,3,2,No,Within 5 min,49,8.5,5.8,0.8,4.9,No,Yes,4.7,7.0,4.3,6.1,4.0,7.0,4.5,1.4,4.7,1.5,5.6,High
+20,Male,Student,In a Relationship,Facebook,0.5,2,7,No,5-30 min,52,7.3,8.9,3.0,5.2,Yes,,7.1,2.3,5.6,6.7,5.9,8.6,2.8,4.2,3.6,3.9,5.8,Moderate
+16,Female,Student,Married,Instagram,3.4,4,5,Yes,Within 5 min,56,6.2,6.3,7.4,7.8,No,Yes,3.2,3.9,4.4,4.9,2.1,6.2,6.6,5.3,3.7,1.3,3.9,Severe
+25,Male,Working Professional,Married,YouTube,3.1,4,6,Yes,5-30 min,37,6.2,3.4,3.5,5.1,,Yes,7.3,4.3,4.6,,8.0,6.1,3.6,7.6,1.2,3.7,7.1,Low
+24,Non-binary,Freelancer,In a Relationship,YouTube,4.3,7,5,No,After 30 min,86,8.5,8.2,3.0,4.3,No,No,4.7,5.0,2.2,7.7,7.2,6.1,1.8,3.7,3.9,1.5,8.1,Low
+27,Male,Working Professional,Single,Facebook,10.5,4,3,Yes,5-30 min,87,4.1,6.4,3.0,3.2,No,Yes,4.3,4.5,2.0,6.1,5.3,8.5,4.0,4.9,5.1,0.0,5.1,Severe
+17,Male,Working Professional,Single,Facebook,6.2,1,3,No,After 30 min,9,9.0,4.8,4.8,0.0,No,Yes,5.9,5.8,7.1,7.9,3.9,5.8,2.1,2.7,2.0,2.5,8.0,Low
+16,Non-binary,Student,In a Relationship,TikTok,3.6,2,3,,5-30 min,64,6.8,4.7,2.6,10.0,Yes,Yes,8.5,4.8,7.1,8.9,10.0,6.1,4.3,9.3,3.3,1.1,6.8,Moderate
+20,Female,Working Professional,Married,TikTok,,3,3,No,5-30 min,73,5.8,6.5,6.7,3.4,No,No,3.6,6.6,6.2,7.6,4.6,5.1,4.4,5.7,2.5,1.8,7.1,Low
+44,Male,Working Professional,Single,Instagram,4.3,4,3,No,Within 5 min,67,3.5,0.9,3.2,2.9,Yes,Yes,7.3,5.4,7.3,7.5,7.1,5.6,4.7,7.2,1.7,2.5,6.9,Moderate
+44,Female,Freelancer,In a Relationship,TikTok,3.1,4,4,No,Within 5 min,40,5.2,6.9,4.7,6.9,No,No,5.1,2.6,3.5,6.8,5.0,5.7,2.4,5.8,8.9,0.2,6.2,Moderate
+35,Male,Working Professional,In a Relationship,YouTube,,1,5,Yes,After 30 min,69,2.6,6.9,5.1,4.6,Yes,Yes,7.0,0.0,4.3,5.9,5.0,4.5,4.1,2.8,4.5,3.0,6.4,Moderate
+28,Female,Freelancer,Single,Instagram,8.2,5,6,Yes,5-30 min,109,4.9,5.8,0.5,3.0,No,No,5.5,,10.0,7.6,9.4,8.1,7.2,2.9,2.9,3.7,6.3,Moderate
+43,Male,Working Professional,Single,Instagram,4.0,3,3,No,After 30 min,50,8.2,4.2,0.0,5.9,No,Yes,4.2,7.4,9.2,,8.6,6.8,5.2,5.3,0.4,4.0,7.4,Low
+31,Female,Student,In a Relationship,TikTok,7.0,3,4,Yes,Within 5 min,44,4.1,9.2,4.0,2.9,Yes,No,0.2,7.9,3.7,3.5,5.8,6.8,5.2,8.5,3.7,,6.0,Moderate
+43,Female,Student,Single,YouTube,5.0,6,5,Yes,After 30 min,113,4.5,5.8,7.9,5.9,Yes,No,8.0,7.0,3.3,5.7,6.7,5.4,2.7,6.3,3.0,1.1,6.2,Moderate
+25,Male,Freelancer,Single,TikTok,4.8,3,3,No,Within 5 min,58,3.5,3.5,3.7,1.1,,Yes,5.3,5.0,4.4,2.5,6.4,7.8,2.1,2.4,0.0,2.8,6.9,Moderate
+27,Male,Student,Single,Instagram,1.7,4,6,No,After 30 min,78,4.0,3.1,6.8,2.8,No,Yes,9.7,1.6,2.1,1.3,5.8,6.8,4.5,6.8,2.7,3.3,8.7,Low
+44,Male,Working Professional,In a Relationship,TikTok,5.7,2,7,No,5-30 min,23,2.7,2.8,7.3,1.5,Yes,No,6.9,7.9,2.4,5.5,3.9,4.5,3.3,3.2,3.0,1.3,7.6,Low
+32,,Freelancer,In a Relationship,Instagram,4.9,6,2,Yes,Within 5 min,73,9.3,3.7,8.8,4.6,No,,8.2,0.7,3.8,7.7,3.1,6.1,0.3,9.0,1.5,4.2,5.2,Severe
+30,Male,Working Professional,In a Relationship,Snapchat,7.7,4,4,No,Within 5 min,46,7.1,5.0,6.1,4.4,Yes,No,7.4,4.7,5.7,,3.7,7.3,5.5,7.7,0.5,1.9,5.8,High
+21,Female,,Single,YouTube,2.3,1,4,Yes,5-30 min,110,6.7,3.3,5.1,7.1,No,No,4.3,1.2,8.6,5.7,3.8,5.4,5.6,5.0,3.2,6.8,6.1,Moderate
+21,Female,Student,Married,YouTube,4.8,5,4,Yes,5-30 min,18,3.9,6.6,7.2,5.9,Yes,No,4.0,2.1,,9.5,5.5,6.9,4.2,4.2,3.5,1.4,6.6,Moderate
+39,Female,Working Professional,Married,YouTube,,3,4,No,Within 5 min,17,3.1,4.8,9.0,3.2,Yes,No,5.0,6.4,3.8,3.0,5.7,,8.6,5.2,5.9,3.2,7.3,Moderate
+20,Non-binary,Working Professional,Married,YouTube,6.6,4,6,Yes,5-30 min,79,5.0,6.2,10.0,5.4,Yes,No,3.5,0.0,3.1,6.2,7.1,8.1,4.0,4.2,2.3,5.1,6.5,Moderate
+25,Male,Working Professional,In a Relationship,YouTube,9.3,3,4,Yes,5-30 min,113,1.8,7.7,7.6,6.7,No,No,5.7,1.7,2.0,5.7,6.7,5.5,4.8,7.1,0.2,4.6,5.8,High
+34,Male,Working Professional,Married,Facebook,3.9,4,7,Yes,Within 5 min,27,4.5,3.4,4.0,3.9,Yes,No,8.1,4.2,2.1,6.4,3.4,8.5,7.7,6.2,2.1,4.7,7.2,Moderate
+16,Male,Student,In a Relationship,TikTok,8.7,4,4,Yes,After 30 min,88,5.0,7.2,5.3,7.0,No,Yes,3.3,5.3,5.4,5.7,6.6,5.4,2.8,,3.2,0.2,4.3,Severe
+39,Male,Unemployed,Single,Twitter/X,1.0,3,1,Yes,Within 5 min,66,,5.6,6.3,5.8,No,No,5.0,4.1,6.3,6.1,2.3,6.8,2.4,1.7,1.8,2.1,5.4,Severe
+26,Female,Working Professional,In a Relationship,Instagram,5.3,4,1,Yes,After 30 min,79,7.0,3.7,4.4,4.5,Yes,No,7.6,6.2,3.0,4.6,5.5,6.8,2.9,5.4,4.5,3.0,7.2,Low
+28,Male,Working Professional,Married,TikTok,6.6,4,2,Yes,5-30 min,101,7.9,6.7,1.8,6.4,No,Yes,5.5,6.1,4.7,3.7,5.8,6.1,2.9,5.8,3.2,3.0,4.2,Severe
+15,Female,Student,Single,Instagram,2.2,2,3,Yes,5-30 min,86,5.8,4.3,7.1,4.0,Yes,Yes,6.4,,3.5,3.8,3.5,3.2,6.4,1.4,2.0,2.1,5.4,Severe
+43,Male,Freelancer,In a Relationship,YouTube,7.2,6,3,Yes,After 30 min,96,5.6,4.7,4.7,4.0,No,Yes,5.1,4.4,4.1,,5.8,6.6,6.1,6.6,1.3,1.1,6.3,Moderate
+38,Male,Student,In a Relationship,Instagram,8.6,4,4,Yes,After 30 min,16,1.9,6.0,7.6,3.7,Yes,Yes,0.0,1.9,8.7,3.1,7.0,7.8,3.5,5.4,4.8,1.9,6.7,Moderate
+40,Female,Working Professional,In a Relationship,Facebook,3.5,2,1,Yes,5-30 min,140,5.6,8.8,7.4,7.4,No,Yes,1.4,5.1,8.5,,5.1,4.4,5.4,10.0,0.9,4.2,5.8,High
+43,Female,,Single,Snapchat,5.8,3,12,Yes,Within 5 min,114,4.6,6.8,3.7,2.7,No,Yes,6.9,3.8,2.3,2.4,3.5,4.5,4.7,4.3,6.3,1.1,4.9,Severe
+41,Female,Working Professional,In a Relationship,TikTok,3.3,6,4,,After 30 min,5,5.5,7.6,4.0,8.4,No,Yes,1.0,1.4,4.4,5.7,3.0,6.1,4.3,9.6,2.7,4.5,6.8,Moderate
+23,Female,Student,In a Relationship,Snapchat,5.9,3,8,No,5-30 min,82,4.0,5.4,2.5,6.7,,Yes,5.7,5.6,4.0,3.4,7.5,4.7,9.6,7.8,3.0,3.5,6.7,Moderate
+42,Female,Freelancer,In a Relationship,YouTube,2.4,6,4,Yes,Within 5 min,84,6.8,4.2,7.5,7.3,No,Yes,5.1,2.7,,3.7,5.4,7.8,5.4,7.1,2.4,1.5,4.5,Severe
+24,Female,Freelancer,Married,Instagram,,2,4,Yes,Within 5 min,22,7.6,7.7,0.8,9.8,Yes,Yes,7.7,2.3,,1.9,5.8,6.6,,7.6,4.6,4.9,4.9,Severe
+29,Male,Working Professional,In a Relationship,Instagram,3.8,1,3,,After 30 min,79,6.1,9.3,1.7,5.7,Yes,No,3.4,6.1,4.4,6.3,7.0,6.4,4.0,5.5,6.1,1.5,9.2,Low
+18,Male,Working Professional,In a Relationship,Instagram,6.6,4,1,Yes,After 30 min,78,8.6,8.2,4.6,2.9,No,Yes,1.6,3.0,5.6,4.5,2.0,6.0,4.3,4.2,2.9,3.6,4.9,Severe
+16,Male,Student,Single,YouTube,3.9,3,4,Yes,After 30 min,90,6.2,3.3,8.5,5.0,No,No,5.5,1.6,3.4,7.4,5.8,7.9,5.6,6.8,3.4,3.7,7.4,Moderate
+19,Non-binary,Student,Married,Twitter/X,3.1,3,4,Yes,Within 5 min,65,5.2,,4.7,5.8,Yes,No,6.8,7.5,2.1,,2.6,6.2,4.3,4.1,4.9,1.8,7.6,Moderate
+32,Non-binary,Working Professional,Married,TikTok,3.7,6,4,Yes,After 30 min,5,3.8,4.4,6.3,4.6,No,No,5.5,6.6,3.4,4.0,5.2,6.8,2.1,5.3,,1.8,8.4,Low
+35,Male,Unemployed,Married,Instagram,,3,4,Yes,Within 5 min,36,6.7,3.3,2.3,3.2,No,No,4.4,1.8,3.5,4.9,4.4,6.5,5.8,8.3,2.2,,6.5,Moderate
+28,Male,Freelancer,Single,Instagram,,3,11,No,Within 5 min,129,5.4,7.1,6.2,4.9,No,Yes,5.3,4.3,6.3,4.4,,8.6,2.3,8.5,1.4,0.4,5.1,High
+35,Male,Student,Married,TikTok,0.5,2,5,Yes,Within 5 min,12,6.7,1.7,2.4,5.2,Yes,Yes,2.9,7.3,4.2,6.8,7.8,6.7,2.9,4.7,2.6,5.9,7.8,Low
+16,Male,Student,In a Relationship,Instagram,5.1,2,3,No,After 30 min,81,5.9,5.1,3.4,7.9,Yes,No,7.2,3.2,4.7,9.6,6.1,7.2,3.7,6.7,6.3,4.9,8.8,Low
+40,Female,Student,Single,TikTok,6.9,5,2,No,5-30 min,52,5.6,6.0,6.9,3.5,Yes,Yes,5.9,4.4,4.2,5.5,5.8,6.3,4.7,4.8,0.5,4.9,5.7,High
+22,Female,Working Professional,In a Relationship,Snapchat,3.1,8,4,No,After 30 min,5,8.2,5.1,6.0,10.0,No,Yes,6.7,4.4,2.2,7.7,7.2,4.9,8.3,2.5,3.4,3.7,6.1,High
+32,Male,Student,Single,Instagram,4.6,2,4,Yes,5-30 min,76,6.3,4.5,3.5,5.5,Yes,No,5.8,4.0,3.6,,3.8,6.7,4.7,3.8,3.2,5.5,6.8,Moderate
+18,Male,Student,Married,TikTok,2.7,2,3,No,Within 5 min,104,3.1,2.4,7.4,8.9,Yes,Yes,0.4,6.7,1.6,6.5,6.0,8.0,6.5,6.5,1.8,1.0,6.6,Moderate
+44,Non-binary,Working Professional,Married,YouTube,5.4,1,2,Yes,Within 5 min,98,4.2,6.1,4.6,3.7,Yes,No,6.7,4.1,1.7,5.8,5.4,5.6,8.7,6.5,4.0,3.4,6.6,Moderate
+37,Female,Student,In a Relationship,Snapchat,6.3,3,2,Yes,5-30 min,25,5.2,3.8,5.3,3.2,No,No,5.9,9.3,4.4,7.2,7.6,7.1,4.9,0.0,1.5,3.6,7.1,Low
+23,Non-binary,Working Professional,Married,Instagram,7.9,8,3,Yes,Within 5 min,98,1.1,,,6.5,Yes,No,7.2,6.2,2.8,6.6,2.5,6.2,5.6,7.2,2.8,4.3,4.4,Severe
+39,Female,Student,Married,Facebook,1.7,6,5,No,After 30 min,140,9.4,6.1,5.0,4.1,Yes,No,4.6,5.2,,5.6,5.2,7.7,6.0,9.0,,2.1,8.1,Low
+22,Female,Student,Married,YouTube,3.5,2,5,No,After 30 min,43,3.9,9.6,3.1,10.0,Yes,Yes,4.7,4.4,3.4,3.7,,5.1,7.3,5.7,5.1,4.5,6.7,Moderate
+21,Female,Working Professional,Single,Twitter/X,4.8,4,3,Yes,Within 5 min,118,4.6,2.0,6.4,4.1,No,No,2.7,4.0,3.7,10.0,4.7,3.7,5.3,9.2,5.1,3.8,8.1,Low
+32,Male,Freelancer,Married,TikTok,2.9,2,7,Yes,Within 5 min,106,7.8,5.1,7.4,0.0,No,Yes,7.7,3.8,1.5,6.5,6.2,5.2,5.2,6.0,3.3,2.1,4.9,Severe
+25,Male,Student,Single,Instagram,3.5,5,5,Yes,After 30 min,72,0.3,5.8,1.7,3.0,,No,6.8,8.1,7.0,10.0,,4.8,5.5,2.8,,3.8,8.4,Low
+42,Female,Working Professional,Single,,8.4,1,4,Yes,Within 5 min,126,4.9,2.7,4.3,9.0,No,No,5.2,7.7,4.2,2.6,7.6,4.1,3.9,1.3,3.2,7.0,6.0,High
+18,Female,Unemployed,Single,Twitter/X,3.8,4,7,Yes,5-30 min,33,10.0,8.3,8.9,9.3,No,No,3.1,1.1,4.8,5.5,3.3,8.6,2.6,6.7,5.5,1.9,5.4,Severe
+24,Non-binary,Student,Single,Instagram,6.6,3,3,,After 30 min,42,5.2,6.9,0.9,6.1,Yes,Yes,7.5,5.9,2.7,6.6,6.5,5.4,4.3,4.9,3.9,5.0,6.1,Moderate
+35,Female,Working Professional,Single,Facebook,7.9,3,2,No,Within 5 min,91,3.3,0.0,8.5,4.0,Yes,No,1.6,4.4,7.3,7.2,7.3,4.3,7.8,9.4,5.9,2.9,8.3,Low
+16,Female,Freelancer,Single,TikTok,2.8,6,3,No,Within 5 min,32,7.5,3.1,,2.1,No,Yes,6.4,,7.0,5.1,3.2,7.3,6.8,4.4,4.7,3.5,6.2,High
+21,Male,Working Professional,Single,Twitter/X,3.2,3,5,Yes,Within 5 min,134,4.2,8.3,2.2,4.1,No,No,7.2,4.3,0.7,6.1,,6.7,6.3,5.6,3.8,,6.5,High
+24,Female,Student,Single,Instagram,5.1,4,7,Yes,Within 5 min,63,6.7,6.3,2.6,5.8,Yes,Yes,4.0,1.2,1.4,6.4,2.9,6.0,5.0,,4.7,3.9,5.8,High
+20,Female,Working Professional,,TikTok,0.5,3,0,Yes,After 30 min,95,3.4,5.9,5.9,7.9,Yes,Yes,3.8,2.2,10.0,1.5,8.9,3.8,2.6,3.2,5.0,1.8,6.5,Moderate
+25,Non-binary,Working Professional,In a Relationship,Instagram,3.2,3,6,Yes,5-30 min,55,10.0,3.9,3.9,7.4,Yes,Yes,4.2,3.8,4.4,5.3,9.5,5.5,4.9,9.0,2.3,0.2,6.4,High
+23,Female,Working Professional,In a Relationship,Facebook,6.9,5,5,No,After 30 min,80,3.8,5.0,4.2,5.3,Yes,Yes,3.9,5.7,6.2,5.2,3.8,5.4,4.7,4.6,1.4,3.1,6.0,Moderate
+22,,Freelancer,Married,TikTok,3.6,5,1,Yes,5-30 min,33,1.9,5.4,3.7,5.6,Yes,No,6.9,4.4,4.7,2.8,4.1,7.6,1.9,4.5,0.0,4.0,7.5,Low
+28,Male,Working Professional,In a Relationship,TikTok,3.5,4,5,No,Within 5 min,80,7.7,4.4,7.5,5.5,Yes,Yes,6.3,2.2,6.0,7.4,6.2,,4.0,5.3,4.2,2.6,4.9,Severe
+37,Female,Student,Single,Snapchat,4.9,3,2,Yes,After 30 min,108,4.2,,6.7,3.0,Yes,No,7.9,6.0,,6.9,4.3,8.7,2.2,7.3,2.6,3.6,8.0,Low
+30,Male,Student,Married,Instagram,1.9,2,7,No,5-30 min,54,2.2,,1.8,5.9,Yes,Yes,3.7,5.6,6.0,5.7,5.1,5.7,2.3,6.0,3.9,4.7,8.5,Low
