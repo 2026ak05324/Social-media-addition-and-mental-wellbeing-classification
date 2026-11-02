@@ -13,9 +13,9 @@ metrics, a confusion matrix and a classification report.
 
 ## b. Dataset Description
 
-* **Name:** Social Media Addiction \& Mental Well-being (`social\_media\_addiction\_mental\_wellbeing.csv`).
-* **Size:** 1,500 users, 30 columns (28 input features after dropping `User\_ID`, plus the target).
-* **Target:** `Addiction\_Level` - Moderate 450, Low 420, High 360, Severe 270 (mildly imbalanced).
+* **Name:** Social Media Addiction \& Mental Well-being (`social\\\_media\\\_addiction\\\_mental\\\_wellbeing.csv`).
+* **Size:** 1,500 users, 30 columns (28 input features after dropping `User\\\_ID`, plus the target).
+* **Target:** `Addiction\\\_Level` - Moderate 450, Low 420, High 360, Severe 270 (mildly imbalanced).
 * **Numeric features (20):** Age, Daily\_Usage\_Hours, Platforms\_Used\_Count, Posts\_Per\_Week, Notifications\_Per\_Day, FOMO\_Score,
 Social\_Comparison\_Score, Validation\_Seeking\_Score, Scroll\_Without\_Purpose, Anxiety\_Score, Depression\_Score, Loneliness\_Score,
 Self\_Esteem\_Score, Sleep\_Quality\_Score, Sleep\_Hours, Productivity\_Loss\_Score, Offline\_Relationship\_Quality,
@@ -25,7 +25,7 @@ Tried\_To\_Cut\_Back, Failed\_To\_Cut\_Back.
 * **Missing values:** roughly 3-5% of most columns are blank.
 * **Preprocessing (inside every saved model pipeline):** numeric -> median imputation + standard scaling; categorical ->
 most-frequent imputation + one-hot encoding. The app therefore accepts the raw columns directly.
-* **Split:** 80/20 stratified (random\_state=42): 1,200 train / 300 test. The test split is saved as `test\_data.csv`.
+* **Split:** 80/20 stratified (random\_state=42): 1,200 train / 300 test. The test split is saved as `test\\\_data.csv`.
 * **Metric averaging:** Precision, Recall and F1 are macro-averaged over the 4 classes; AUC is one-vs-rest macro; MCC is the multiclass version.
 
 
@@ -33,6 +33,10 @@ most-frequent imputation + one-hot encoding. The app therefore accepts the raw c
 ## c. GitHub Repository Link
 
 https://github.com/2026ak05324/Social-media-addition-and-mental-wellbeing-classification
+
+
+
+https://social-media-addition-and-mental-wellbeing-classification-qyem.streamlit.app/    (this was no mentioned in assignment instruction, but im adding it here for quick reference)
 
 
 
@@ -48,7 +52,7 @@ https://github.com/2026ak05324/Social-media-addition-and-mental-wellbeing-classi
 
 
 
-Metrics are computed on the 300-row held-out test set (`test\_data.csv`), printed by `train.py`.
+Metrics are computed on the 300-row held-out test set (`test\\\_data.csv`), printed by `train.py`.
 
 
 
@@ -61,9 +65,7 @@ Metrics are computed on the 300-row held-out test set (`test\_data.csv`), printe
 |KNN|Weakest (Acc 0.53, MCC 0.36). With 28 standardised and one-hot features, most of them noisy, distances become uninformative (curse of dimensionality).|
 |Naive Bayes|Competitive for its simplicity (Acc 0.74, AUC 0.92). Many scores are roughly Gaussian and only weakly correlated, so the independence assumption is not badly violated; it matches the tree on accuracy.|
 |Support Vector Machine|Second best by AUC (0.94) and MCC (0.66). The RBF kernel handles the many features well but gains nothing over the linear model because the class boundaries are close to linear.|
-|**Overall winner for your dataset?**|**Logistic Regression** - highest Accuracy, AUC, Precision, Recall, F1 and MCC on the test set.<br />**Caveat:** `Mental\\\_Wellbeing\\\_Score` is an outcome of heavy use rather than a cause, and it carries most of the predictive signal. It is kept<br />because it is part of the dataset, but a model restricted to behavioural inputs would score lower.|
-
-
+|**Overall winner for your dataset?**|**Logistic Regression** - highest Accuracy, AUC, Precision, Recall, F1 and MCC on the test set.<br />**Caveat:** `Mental\\\\\\\_Wellbeing\\\\\\\_Score` is an outcome of heavy use rather than a cause, and it carries most of the predictive signal. It is kept<br />because it is part of the dataset, but a model restricted to behavioural inputs would score lower.|
 
 
 
