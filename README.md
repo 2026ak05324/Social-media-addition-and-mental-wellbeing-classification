@@ -25,7 +25,7 @@ Tried\_To\_Cut\_Back, Failed\_To\_Cut\_Back.
 * **Missing values:** roughly 3-5% of most columns are blank.
 * **Preprocessing (inside every saved model pipeline):** numeric -> median imputation + standard scaling; categorical ->
 most-frequent imputation + one-hot encoding. The app therefore accepts the raw columns directly.
-* **Split:** 80/20 stratified (random\_state=42): 1,200 train / 300 test. The test split is saved as `test\\\_data.csv`.
+* **Split:** 80/20 stratified (random\_state=42): 1,200 train / 300 test. The test split is saved as `test_data.csv`.
 * **Metric averaging:** Precision, Recall and F1 are macro-averaged over the 4 classes; AUC is one-vs-rest macro; MCC is the multiclass version.
 
 
