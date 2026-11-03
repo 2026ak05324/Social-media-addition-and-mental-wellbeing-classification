@@ -13,7 +13,7 @@ metrics, a confusion matrix and a classification report.
 
 ## b. Dataset Description
 
-* **Name:** Social Media Addiction \& Mental Well-being (`social\\\_media\\\_addiction\\\_mental\\\_wellbeing.csv`).
+* **Name:** social_media_addiction_mental_wellbeing (`social_media_addiction_mental_wellbeing.csv`).
 * **Size:** 1,500 users, 30 columns (28 input features after dropping `User\\\_ID`, plus the target).
 * **Target:** `Addiction\\\_Level` - Moderate 450, Low 420, High 360, Severe 270 (mildly imbalanced).
 * **Numeric features (20):** Age, Daily\_Usage\_Hours, Platforms\_Used\_Count, Posts\_Per\_Week, Notifications\_Per\_Day, FOMO\_Score,
